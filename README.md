@@ -1,0 +1,1 @@
+snapaday-master dir
